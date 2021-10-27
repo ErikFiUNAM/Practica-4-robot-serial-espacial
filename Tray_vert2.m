@@ -11,8 +11,8 @@ y_fin = -0.20;
 z_fin = 0.15;
 
 %Definición de los parámetros de la trayectoria
-t_total = 10;
-t_in = 0.1;
+t_total = 10;%s
+t_in = 0.1; %S
 t_sim = 0:t_in:t_total;
 
 %Puntos de la trayectoria
