@@ -1,9 +1,9 @@
 %trayectoria 
 
 %Punto inicial
-x_in = 0.25;
+x_in = 0.30;
 y_in = 0.20;
-z_in = 0.05;
+z_in = 0.25;
 
 %Punto final
 x_fin = 0.25;
